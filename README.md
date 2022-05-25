@@ -11,30 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 Happy Tuesday! 😊 This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to 2021). Thank you for this amazing challenge!
-## Header 2
-### Header 3
+# Header 1 Happy Tuesday! 😊 This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to #2021). Thank you for this amazing challenge!
 
+# Here are my insights:
+1. 853 Drivers,  210 Constructors, 76 Circuits, 52 Events, 1M Laps..
+2. Top Driver by points: Hamilton, followed by Vettel, Alonso, Schumacher and Raikkonen.
+3. Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
+4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
 
-
-
-
-- Bulleted
-- List
-Here are my insights:
-1) 853 Drivers,  210 Constructors, 76 Circuits, 52 Events, 1M Laps..
-2) Top Driver by points: Hamilton, followed by Vettel, Alonso, Schumacher and Raikkonen.
-3) Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
-4) Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
