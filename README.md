@@ -14,6 +14,7 @@ This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachalleng
 3. Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
 
 4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
+
 ![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
 
 
