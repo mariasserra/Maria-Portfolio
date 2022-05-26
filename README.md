@@ -5,7 +5,7 @@ Example of Data Analysis portfolio
 
 # Header 1 Formula 1 Data Challenge Project - Onyx Data Challenge April 2022 
 This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to #2021). Thank you for this amazing challenge!
-![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/Onyx%20Data%20Formula%201%20April%202022.png)
+![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
 # Here are my insights:
 1. 853 Drivers,  210 Constructors, 76 Circuits, 52 Events, 1M Laps.
 
