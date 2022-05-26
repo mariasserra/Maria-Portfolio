@@ -18,6 +18,8 @@ This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachalleng
 ![GitHub Logo](/images/github-logo.png)
 
 ![Alt text](Image URL)
+![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/F1.png)
+
 
 ![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png?raw=true)
 
