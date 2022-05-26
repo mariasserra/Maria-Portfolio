@@ -3,7 +3,7 @@ Example of Data Analysis portfolio
 
 ### Project 1
 
-# Header 1 Formula 1 Data Challenge Project - Onyx Data Challenge April 2022 
+# Formula 1 Data Challenge Project - Onyx Data Challenge April 2022 
 This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to #2021). 
 
 # Here are my insights:
