@@ -18,16 +18,16 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 
 ### Nobel Prize:  Onyx Data Challenge May 2022 
 This is my submission to the Onyx Data, Astrato Analytics novyPro #Datachallenge of May 2022: Nobel Prize Results Dataset (1901 to 2019). Thank you for this amazing challenge!
- 
-Here are my insights:
-1) 923 Total, 869 Men (94.18%), 54 Women (5.35%), 59.8 Average Age, 333 Laureates
-2) Totals by Category
-3) % By Country of University
-4) Total by Year and Gender
-5) Top 6 Country of Birth
+
+### Here are my insights: 
+1. 923 Total, 869 Men (94.18%), 54 Women (5.35%), 59.8 Average Age, 333 Laureates
+2. Totals by Category
+3. % By Country of University
+4. Total by Year and Gender
+5. Top 6 Country of Birth
 For 3) and 5) the country of the United States of America is at the top.
  
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/NobelPrize.png)
+![](https://github.com/mariasserra/Maria-Portfolio/blob/main/NobelPrize.png)
 
 ### Project 3
 
