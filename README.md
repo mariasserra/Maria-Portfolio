@@ -17,6 +17,15 @@ This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachalleng
 
 ![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/F1.png)
 
+# The Christmas Song Billboard of All Times - Data Challenge Project - Onyx Data December 2021
+Here is my submission to the Onyx Data December 2021 Data Visualization Challenge: The Christmas Song Billboard of All Times.  
+
+Here Are my findings:
+1) Most played song of all times: ‘All I want for Christmas is you’. Followed by ‘Jingle Bell rock, ‘Rockin’ around the Christmas tree’, ‘White Christmas’,  ‘The Chipmunk song (Christmas don’t be late)’.
+2) 387 songs, 69 performers, 70 unique songs, 614 instances.
+3) Songs by Month: December 57.88%, November 3.88% and January 38.24%.
+4) Most weeks on chart by song: ‘Jingle bell rock’ with 436 weeks, followed by ‘All I want for Christmas is you’ with 362 weeks.
+
 ![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/XmasSongs.png)
 
 
