@@ -5,7 +5,7 @@ Example of Data Analysis portfolio
 
 # Header 1 Formula 1 Data Challenge Project - Onyx Data Challenge April 2022 
 This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to #2021). Thank you for this amazing challenge!
-![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
+
 # Here are my insights:
 1. 853 Drivers,  210 Constructors, 76 Circuits, 52 Events, 1M Laps.
 
@@ -14,6 +14,7 @@ This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachalleng
 3. Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
 
 4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
+![alt text] (https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
 
 
 
