@@ -9,7 +9,7 @@ This is my submission to the Onyx Data , Astrato Analytics & Packt #Datachalleng
 # Here are my insights:
 *1. 853 Drivers,  210 Constructors, 76 Circuits, 52 Events, 1M Laps.*
 
-2. Top Driver by points: Hamilton, followed by Vettel, Alonso, Schumacher and Raikkonen.
+**2. Top Driver by points: Hamilton, followed by Vettel, Alonso, Schumacher and Raikkonen.**
 
 3. Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
 
