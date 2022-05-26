@@ -1,5 +1,5 @@
-## Maria Portfolio
-Example of Data Analysis portfolio
+## Maria Serra Portfolio
+Data Analytics portfolio
 
 ### Project 1
 
@@ -34,6 +34,25 @@ My suggestion to the NY Police Department to take action is to increase police p
 
 ![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/NYPD.png)
 
+
+### Project 3
+
+# Bakery Store Onyx Data CHallenge March 2022  
+
+Here is my submission to the Onyx Data & Astrato Analytics #Datachallenge of March 2022: ‘Pi Day’ (https://lnkd.in/dHACJQeX
+) in which we are analyzing a fictional bakery's pie data! Thank you for this amazing challenge!
+ 
+#Here are my insights:
+1) 8333 Quantity Sold,  $97K Profit, 2777 Total Orders.
+2) Top flavors with revenue: Apple $23,635, Strawberry Rhubarb $21,073,  Pumpkin $17,663,  Fudge $11,608 and Cherry $10,950. 
+3) Total Orders by Pie Flavor, Organic? And Pre-Order/In-Store Purchase.
+4) Total Orders by Month of Year and Organic. As the Summer approaches the public eats mostly organic. The same goes for the time of the year right before the Holiday season.
+5) Total Orders by Day of Week and Organic. Saturday is the day of the week with most orders. 
+All these insights should be taken into account by the business when planning for ingredients orders, open hours schedules and associate’s availability at the store.
+
+![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/BakeryStore.png)
+
+### Project 5
 
 # The Christmas Song Billboard of All Times - Data Challenge Project - Onyx Data December 2021
 Here is my submission to the Onyx Data December 2021 Data Visualization Challenge: The Christmas Song Billboard of All Times.  
