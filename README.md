@@ -34,8 +34,22 @@ My suggestion to the NY Police Department to take action is to increase police p
 
 ![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/NYPD.png)
 
-
 ### Project 3
+
+# Harry Potter Maven Analycs Data Challenge December 2021. 
+Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analytics. 
+
+Here are my findings:
+1) 6.42$ Bn Total Profits.
+2) 234 chapters, 8 movies, 74 places, 166 characters, 61 spells.
+3) ‘Harry Potter and the Deathly Hallows Part 2’ with the greatest profit at 1.09$ Bn. 1.34$ bn box office with a 0.25$ bn budget.
+4) Dialogues by gender: 77.73 % male and 22.27% female.
+5) Dialogues by character top 5: Harry, Ron, Hermoine, Albus, Rubeus. The detail is in the word bubble chart.
+6) The profit, box office and budget per each of the 8 movies.
+
+![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/HarryPotter.png)
+
+### Project 4
 
 # Bakery Store Onyx Data CHallenge March 2022  
 
