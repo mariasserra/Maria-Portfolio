@@ -25,7 +25,7 @@ Here are my insights:
 3) % By Country of University
 4) Total by Year and Gender
 5) Top 6 Country of Birth
-For 3) and 5) United States of America is at the top.
+For 3) and 5) the country of the United States of America is at the top.
  
 ![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/NobelPrize.png)
 
