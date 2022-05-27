@@ -1,5 +1,7 @@
 # Maria Serra Portfolio
 ## Data Analytics
+### Connect with me on linkedin: 
+![ImageLI](https://media-exp1.licdn.com/dms/image/C4E03AQFIcfd2d9zOgg/profile-displayphoto-shrink_800_800/0/1650620250931?e=1658966400&v=beta&t=Yw4cAXhNUe0kgMKTTV6zmUhrHon3Y1x35zDnNTEvlQg)
 
 ### Project 1
 
