@@ -13,7 +13,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
 
 ![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/F1.png)
-![ImageF1](https://mariasserra.github.io/Maria-Portfolio/blob/main/F1J.png)
+
 
 ### Project 2
 
