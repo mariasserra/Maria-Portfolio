@@ -49,7 +49,7 @@ This is my entry for the Onyx Data November 2021 Challenge.
 
 My suggestion to the NY Police Department to take action is to increase police presence to reduce crime in the locations, days of the week and take into account the demographics and type of offenses identified.
 
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/b68901724e82ccb79e49c4e5039336618de7f85b/NYPD.png)
+
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1656547200&v=beta&t=vF8SJy5mQoJ0fEQlxTVm3fVOlAZ4cD33Nb4fec5--qs)
 
 ### Project 4
