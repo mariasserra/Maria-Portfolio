@@ -13,7 +13,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
 
 ![ImageF3](https://media-exp1.licdn.com/dms/image/C4E22AQGA_eaEtFWeJg/feedshare-shrink_2048_1536/0/1650376088106?e=1656547200&v=beta&t=nKGYgU-FtNUw7g7maDgTuuH92d82le2yT8NOHQwTETQ)
-![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
+
 
 
 
@@ -30,7 +30,7 @@ This is my submission to the Onyx Data, Astrato Analytics novyPro #Datachallenge
 5. Top 6 Country of Birth
 For 3) and 5) the country of the United States of America is at the top.
  
-![ImageNobelPrize](https://github.com/mariasserra/Maria-Portfolio/blob/main/NobelPrize.png)
+![ImageNobelPrize](https://media-exp1.licdn.com/dms/image/C5622AQE4-057D4fCxQ/feedshare-shrink_800/0/1653404662419?e=1656547200&v=beta&t=UVxuXkUdMEuDKE1bNFhwVpjmxiyb-kK_QqBVVGRmo38)
 
 ### Project 3
 
@@ -48,7 +48,7 @@ This is my entry for the Onyx Data November 2021 Challenge.
 
 My suggestion to the NY Police Department to take action is to increase police presence to reduce crime in the locations, days of the week and take into account the demographics and type of offenses identified.
 
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/NYPD.png)
+![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1656547200&v=beta&t=vF8SJy5mQoJ0fEQlxTVm3fVOlAZ4cD33Nb4fec5--qs)
 
 ### Project 4
 
@@ -64,7 +64,7 @@ Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analyti
 6. The profit, box office and budget per each of the 8 movies.
  
 
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/HarryPotter.png)
+![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGz1-lbTMhkMw/feedshare-shrink_1280/0/1638817069299?e=1656547200&v=beta&t=ocWB5XuXuDHUUhiOILiqIXM74Y_SG-29v6HEO5zfJjs)
 
 ### Project 5
 
@@ -80,7 +80,7 @@ Here is my submission to the Onyx Data & Astrato Analytics #Datachallenge of Mar
 5. Total Orders by Day of Week and Organic. Saturday is the day of the week with most orders.  
 All these insights should be taken into account by the business when planning for ingredients orders, open hours schedules and associate’s availability at the store.
 
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/BakeryStore.png)
+![Alt text](https://media-exp1.licdn.com/dms/image/C4D22AQE8A0oFV61Y_w/feedshare-shrink_1280/0/1647352908184?e=1656547200&v=beta&t=o70T2osvAL_6TFy4IbC-pB59t3s87cwfyMmDhLIuH0Q)
 
 ### Project 6
 
@@ -93,7 +93,7 @@ Here is my submission to the Onyx Data December 2021 Data Visualization Challeng
 3. Songs by Month: December 57.88%, November 3.88% and January 38.24%.
 4. Most weeks on chart by song: ‘Jingle bell rock’ with 436 weeks, followed by ‘All I want for Christmas is you’ with 362 weeks.
 
-![Alt text](https://github.com/mariasserra/Maria-Portfolio/blob/main/XmasSongs.png)
+![Alt text](https://media-exp1.licdn.com/dms/image/C4D22AQHaqH9Otk6aQQ/feedshare-shrink_1280/0/1639012192077?e=1656547200&v=beta&t=vKsUQ715MIqjI2moTBDfMz8m8D7IpED7LHMSbTsdzTg)
 
 
 
