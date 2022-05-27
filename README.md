@@ -1,5 +1,5 @@
 # Maria Serra Portfolio
-## Data Analytics TEST7
+## Data Analytics TEST8
 
 ### Project 1
 
@@ -12,7 +12,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 3. Top Constructor: Ferrari, followed by McLaren (by races, points and laps).
 4. Fastest Lap Speed: 257.52 km/h during the Italian Grand Prix Event in 2004 by Brazilian driver Barichello.
 
-
+![ImageF3](https://media-exp1.licdn.com/dms/image/C4E22AQGA_eaEtFWeJg/feedshare-shrink_2048_1536/0/1650376088106?e=1656547200&v=beta&t=nKGYgU-FtNUw7g7maDgTuuH92d82le2yT8NOHQwTETQ)
 ![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
 
 
