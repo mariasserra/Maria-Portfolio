@@ -1,5 +1,5 @@
 # Maria Serra Portfolio
-## Data Analytics TEST8
+## Data Analytics
 
 ### Project 1
 
@@ -20,7 +20,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 ### Project 2
 
 ### Nobel Prize:  Onyx Data Challenge May 2022 
-This is my submission to the Onyx Data, Astrato Analytics novyPro #Datachallenge of May 2022: Nobel Prize Results Dataset (1901 to 2019). Thank you for this amazing challenge!
+This is my submission to the Onyx Data, Astrato Analytics novyPro #Datachallenge of May 2022: Nobel Prize Results Dataset (1901 to 2019). 
 
 ### Here are my insights: 
 1. 923 Total, 869 Men (94.18%), 54 Women (5.35%), 59.8 Average Age, 333 Laureates
@@ -55,7 +55,7 @@ My suggestion to the NY Police Department to take action is to increase police p
 ### Harry Potter Maven Analycs Data Challenge December 2021. 
 Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analytics. 
 
-### Here are my findings:
+### Here are my insights:
 1. 6.42$ Bn Total Profits.
 2. 234 chapters, 8 movies, 74 places, 166 characters, 61 spells.
 3. ‘Harry Potter and the Deathly Hallows Part 2’ with the greatest profit at 1.09$ Bn. 1.34$ bn box office with a 0.25$ bn budget.
