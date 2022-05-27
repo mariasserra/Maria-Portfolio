@@ -1,5 +1,5 @@
 # Maria Serra Portfolio
-## Data Analytics TEST4
+## Data Analytics TEST5
 
 ### Project 1
 
@@ -14,7 +14,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 
 ![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/./F1.png)
 ![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/images/F1.png)
-![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/./formulaone.PNG)
+![ImageF1](https://github.com/mariasserra/Maria-Portfolio/blob/main/./formulaone.png)
 
 
 ### Project 2
