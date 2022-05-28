@@ -1,6 +1,6 @@
 # Maria Serra Portfolio
 ## Data Analytics
-### Connect with me on linkedin: 
+
 
 ### Project 1
 
@@ -15,6 +15,8 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 
 ![ImageF3](https://media-exp1.licdn.com/dms/image/C4E22AQGA_eaEtFWeJg/feedshare-shrink_2048_1536/0/1650376088106?e=1656547200&v=beta&t=nKGYgU-FtNUw7g7maDgTuuH92d82le2yT8NOHQwTETQ)
 
+### Live interaction with the report: 
+![ImageF3](https://app.powerbi.com/reportEmbed?reportId=0bed686a-f06b-4739-8a89-7eeac6f73fad&autoAuth=true&ctid=a6c7feac-d304-4a69-8f79-c4f9476ab120&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXBhYXMtMS1zY3VzLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
 
 
