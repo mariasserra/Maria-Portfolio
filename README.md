@@ -16,21 +16,6 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 
 ### Project 2
 
-### Nobel Prize:  Onyx Data Challenge May 2022 
-This is my submission to the Onyx Data, Astrato Analytics novyPro #Datachallenge of May 2022: Nobel Prize Results Dataset (1901 to 2019). 
-
-### Here are my insights: 
-1. 923 Total, 869 Men (94.18%), 54 Women (5.35%), 59.8 Average Age, 333 Laureates
-2. Totals by Category
-3. % By Country of University
-4. Total by Year and Gender
-5. Top 6 Country of Birth
-For 3) and 5) the country of the United States of America is at the top.
- 
-![ImageNobelPrize](https://media-exp1.licdn.com/dms/image/C5622AQE4-057D4fCxQ/feedshare-shrink_800/0/1653404662419?e=1656547200&v=beta&t=UVxuXkUdMEuDKE1bNFhwVpjmxiyb-kK_QqBVVGRmo38)
-
-### Project 3
-
 ### NYPD Data Challenge: Onyx Data November 2021.
 This is my entry for the Onyx Data November 2021 Challenge.
 
@@ -46,7 +31,7 @@ My suggestion to the NY Police Department to take action is to increase police p
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1656547200&v=beta&t=vF8SJy5mQoJ0fEQlxTVm3fVOlAZ4cD33Nb4fec5--qs)
 
-### Project 4
+### Project 3
 
 ### Harry Potter Maven Analycs Data Challenge December 2021. 
 Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analytics. 
@@ -61,7 +46,7 @@ Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analyti
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGz1-lbTMhkMw/feedshare-shrink_1280/0/1638817069299?e=1656547200&v=beta&t=ocWB5XuXuDHUUhiOILiqIXM74Y_SG-29v6HEO5zfJjs)
 
-### Project 5
+### Project 4
 
 ### Bakery Store Onyx Data Challenge March 2022  
 
