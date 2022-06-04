@@ -1,7 +1,24 @@
 # Maria Serra Portfolio
 ## Data Analytics
 
-### Project 1
+### Project 2
+
+### Maven Airlines Challenge:  Maven Analytics Data Challenge June 2022 
+
+Here is my submission to the #mavenairlinesachallenge of June 2022 #mavenanalytics. Thank you Aaron Parry and Chris Dutton for this amazing challenge!
+
+#Here are my findings:
+1) 130k Total Passengers.
+2) 15 minutes Arrival Delay, 15 minutes Departure Delay, 39 Average Age.
+3) Total Passengers by Class: 62k Business, 58k Economy, 9k Economy Plus.
+4) Total Passengers by Satisfactions: 73k Neutral or Dissatisfied and 56k Satisfied out of 130k total.
+5) The detail of ratings in all metrics.
+
+My data-driven strategy for increasing Maven Airlines’ satisfaction rate and get the business profits back on track is to work on the ratings that fall lower than 3.5 prioritizing processes that directly affect the customer’s experience like the following: ‘Ease of Online booking’ (2.73/5), Gate location (2.98/5), Online Boarding (3.25/5) and Cleanliness (3.29/5) and Seat Comfort (3.44/5).
+
+![ImageF3](https://media-exp1.licdn.com/dms/image/C5622AQFP5vYC-Z-Cug/feedshare-shrink_800/0/1654093136876?e=1657152000&v=beta&t=zqum_fzEQa4qF11e2LIQmLGMnMPOGF7Q8vSmqPO408s)
+
+### Project 3
 
 ### Formula 1:  Onyx Data Challenge April 2022 
 This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge of April 2022: Formula 1 Results Dataset (1950 to #2021). 
@@ -14,7 +31,7 @@ This is my submission to the Onyx Data, Astrato Analytics & Packt #Datachallenge
 
 ![ImageF3](https://media-exp1.licdn.com/dms/image/C4E22AQGA_eaEtFWeJg/feedshare-shrink_2048_1536/0/1650376088106?e=1656547200&v=beta&t=nKGYgU-FtNUw7g7maDgTuuH92d82le2yT8NOHQwTETQ)
 
-### Project 2
+### Project 4
 
 ### NYPD Data Challenge: Onyx Data November 2021.
 This is my entry for the Onyx Data November 2021 Challenge.
@@ -31,7 +48,7 @@ My suggestion to the NY Police Department to take action is to increase police p
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1656547200&v=beta&t=vF8SJy5mQoJ0fEQlxTVm3fVOlAZ4cD33Nb4fec5--qs)
 
-### Project 3
+### Project 5
 
 ### Harry Potter Maven Analycs Data Challenge December 2021. 
 Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analytics. 
@@ -46,7 +63,7 @@ Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analyti
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGz1-lbTMhkMw/feedshare-shrink_1280/0/1638817069299?e=1656547200&v=beta&t=ocWB5XuXuDHUUhiOILiqIXM74Y_SG-29v6HEO5zfJjs)
 
-### Project 4
+### Project 6
 
 ### Bakery Store Onyx Data Challenge March 2022  
 
@@ -62,7 +79,7 @@ All these insights should be taken into account by the business when planning fo
 
 ![Alt text](https://media-exp1.licdn.com/dms/image/C4D22AQE8A0oFV61Y_w/feedshare-shrink_1280/0/1647352908184?e=1656547200&v=beta&t=o70T2osvAL_6TFy4IbC-pB59t3s87cwfyMmDhLIuH0Q)
 
-### Project 6
+### Project 7
 
 ### The Christmas Song Billboard of All Times - Data Challenge Project - Onyx Data December 2021
 Here is my submission to the Onyx Data December 2021 Data Visualization Challenge: The Christmas Song Billboard of All Times.  
