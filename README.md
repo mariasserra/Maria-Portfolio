@@ -1,6 +1,24 @@
 # Maria Serra Portfolio
 ## Data Analytics
 
+### Project 1
+
+### Forbes WOrld's Billionaires:  Onyx Data Challenge June 2022
+
+This is my submission to the Onyx Data, novyPro, Astrato Analytics Pomerol Partners #dataDNA competition of June 2022: Forbes World’s Billionaires Dataset. Thank you for this amazing challenge!
+ 
+Can you identify who is the most philanthropic billionaire and which industry drives the most billionaires?
+ 
+### Here are my findings:
+1. The most philanthropic billionaire is Warren Buffet with a score of 5 and the highest net worth amongst his peers with the same score.
+2. The industry that drives the most billionaires is Technology.
+3. 74 Countries, 2668 Billionaires, 2341 Men,  311 Women,  64.2 Average Age,  18 Categories.
+4. Top 5 Billionaires: Elon Musk,  Jeff Bezos, Bernard Arnault, Bill Gates, Warren Buffet.
+5. The 50-60 decade age is the one with the most billionaires at 715.
+6. The country with the most billionaires is the United States.
+
+![ImageF3](https://media-exp1.licdn.com/dms/image/C4D22AQGytZY0ezFxRA/feedshare-shrink_800/0/1654346407899?e=1657152000&v=beta&t=Wgb0W5RB9VTALNgdZQTXUWi3AIWMs5WLZ-7jnZjKQxo)
+
 ### Project 2
 
 ### Maven Airlines Challenge:  Maven Analytics Data Challenge June 2022 
