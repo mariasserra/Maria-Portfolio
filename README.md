@@ -7,12 +7,12 @@
 
 Here is my submission to the #mavenairlinesachallenge of June 2022 #mavenanalytics. Thank you Aaron Parry and Chris Dutton for this amazing challenge!
 
-#Here are my findings:
-1) 130k Total Passengers.
-2) 15 minutes Arrival Delay, 15 minutes Departure Delay, 39 Average Age.
-3) Total Passengers by Class: 62k Business, 58k Economy, 9k Economy Plus.
-4) Total Passengers by Satisfactions: 73k Neutral or Dissatisfied and 56k Satisfied out of 130k total.
-5) The detail of ratings in all metrics.
+### Here are my findings:
+1. 130k Total Passengers.
+2. 15 minutes Arrival Delay, 15 minutes Departure Delay, 39 Average Age.
+3. Total Passengers by Class: 62k Business, 58k Economy, 9k Economy Plus.
+4. Total Passengers by Satisfactions: 73k Neutral or Dissatisfied and 56k Satisfied out of 130k total.
+5. The detail of ratings in all metrics.
 
 My data-driven strategy for increasing Maven Airlines’ satisfaction rate and get the business profits back on track is to work on the ratings that fall lower than 3.5 prioritizing processes that directly affect the customer’s experience like the following: ‘Ease of Online booking’ (2.73/5), Gate location (2.98/5), Online Boarding (3.25/5) and Cleanliness (3.29/5) and Seat Comfort (3.44/5).
 
