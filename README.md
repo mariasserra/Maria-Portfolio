@@ -3,7 +3,7 @@
 
 ### Project 1
 
-### Forbes WOrld's Billionaires:  Onyx Data Challenge June 2022
+### Forbes World's Billionaires:  Onyx Data Challenge June 2022
 
 This is my submission to the Onyx Data, novyPro, Astrato Analytics Pomerol Partners #dataDNA competition of June 2022: Forbes World’s Billionaires Dataset. Thank you for this amazing challenge!
  
