@@ -17,7 +17,7 @@ Can you identify who is the most philanthropic billionaire and which industry dr
 5. The 50-60 decade age is the one with the most billionaires at 715.
 6. The country with the most billionaires is the United States.
 
-![Forbes Challenge Image](https://media-exp1.licdn.com/dms/image/C4D22AQGytZY0ezFxRA/feedshare-shrink_800/0/1654346407899?e=1657152000&v=beta&t=Wgb0W5RB9VTALNgdZQTXUWi3AIWMs5WLZ-7jnZjKQxo)
+![Forbes Challenge Image](https://media-exp2.licdn.com/dms/image/C4D22AQGytZY0ezFxRA/feedshare-shrink_800/0/1654346407899?e=1660176000&v=beta&t=aHWQ2y34Lm9wEwImCXZuGVQyYYQqVtMs-aMv6CvtT1U)
 
 ### Project 2
 
@@ -34,7 +34,7 @@ Here is my submission to the #mavenairlinesachallenge of June 2022 #mavenanalyti
 
 My data-driven strategy for increasing Maven Airlines’ satisfaction rate and get the business profits back on track is to work on the ratings that fall lower than 3.5 prioritizing processes that directly affect the customer’s experience like the following: ‘Ease of Online booking’ (2.73/5), Gate location (2.98/5), Online Boarding (3.25/5) and Cleanliness (3.29/5) and Seat Comfort (3.44/5).
 
-![Airlines  Challenge Image](https://media-exp1.licdn.com/dms/image/C5622AQFP5vYC-Z-Cug/feedshare-shrink_800/0/1654093136876?e=1657152000&v=beta&t=zqum_fzEQa4qF11e2LIQmLGMnMPOGF7Q8vSmqPO408s)
+![Airlines  Challenge Image](https://media-exp2.licdn.com/dms/image/C5622AQFP5vYC-Z-Cug/feedshare-shrink_800/0/1654093136876?e=1660176000&v=beta&t=WI0kK4_j2BFLxczzcknUyRlRYwxzdtc88t7IvH9Koxk)
 
 ### Project 3
 
