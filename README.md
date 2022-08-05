@@ -64,7 +64,7 @@ This is my entry for the Onyx Data November 2021 Challenge.
  
 My suggestion to the NY Police Department to take action is to increase police presence to reduce crime in the locations, days of the week and take into account the demographics and type of offenses identified.
 
-![NYPD Challenge Image](https://media-exp2.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1659571200&v=beta&t=AUqwdMX3YgXQHqyfVg0YiqGEBWoVitApTGNwTWPqtsA)
+![NYPD Challenge Image](https://media-exp1.licdn.com/dms/image/C4E22AQGJaHetv1iJwA/feedshare-shrink_800/0/1636917616318?e=1662595200&v=beta&t=hp-GqpTC1IbfrM2pIq-ydPTP--XYyfrykgl8ZAochSw)
 
 ### Project 5
 
@@ -79,25 +79,9 @@ Here is my submission to the #mavenmagicchallenge of December 2021 Maven Analyti
 5. Dialogues by character top 5: Harry, Ron, Hermoine, Albus, Rubeus. The detail is in the word bubble chart.
 6. The profit, box office and budget per each of the 8 movies.
 
-![Harry Potter Challenge Image](https://media-exp2.licdn.com/dms/image/C4E22AQGz1-lbTMhkMw/feedshare-shrink_2048_1536/0/1638817069298?e=1659571200&v=beta&t=LdzCvwoOXVED1OEN-Q94PoCzuIn3VyDgoDA78za9LvA)
+![Harry Potter Challenge Image](https://media-exp1.licdn.com/dms/image/C4E22AQGz1-lbTMhkMw/feedshare-shrink_800/0/1638817069299?e=1662595200&v=beta&t=8c80rhPb88AoBIROhLwBbFwepUTQv7oSMBye7X3IL-U)
 
 ### Project 6
-
-### Bakery Store Onyx Data Challenge March 2022  
-
-Here is my submission to the Onyx Data & Astrato Analytics #Datachallenge of March 2022: ‘Pi Day’ (https://lnkd.in/dHACJQeX) in which we are analyzing a fictional bakery's pie data! Thank you for this amazing challenge!
- 
-### Here are my insights:
-1. 8333 Quantity Sold,  $97K Profit, 2777 Total Orders.
-2. Top flavors with revenue: Apple $23,635, Strawberry Rhubarb $21,073,  Pumpkin $17,663,  Fudge $11,608 and Cherry $10,950. 
-3. Total Orders by Pie Flavor, Organic? And Pre-Order/In-Store Purchase.
-4. Total Orders by Month of Year and Organic. As the Summer approaches the public eats mostly organic. The same goes for the time of the year right before the Holiday season.
-5. Total Orders by Day of Week and Organic. Saturday is the day of the week with most orders.  
-All these insights should be taken into account by the business when planning for ingredients orders, open hours schedules and associate’s availability at the store.
-
-![Bakery Store Challenge Image](https://media-exp2.licdn.com/dms/image/C4D22AQE8A0oFV61Y_w/feedshare-shrink_2048_1536/0/1647352908168?e=1659571200&v=beta&t=GlT52AZRTGoPKHS-FjUMQ7WsVNZCqLGn2FfLNHGLdRk)
-
-### Project 7
 
 ### The Christmas Songs Billboard of All Times - Data Challenge Project - Onyx Data December 2021
 Here is my submission to the Onyx Data December 2021 Data Visualization Challenge: The Christmas Song Billboard of All Times.  
@@ -108,7 +92,7 @@ Here is my submission to the Onyx Data December 2021 Data Visualization Challeng
 3. Songs by Month: December 57.88%, November 3.88% and January 38.24%.
 4. Most weeks on chart by song: ‘Jingle bell rock’ with 436 weeks, followed by ‘All I want for Christmas is you’ with 362 weeks.
 
-![Christmas Songs Challenge Image](https://media-exp2.licdn.com/dms/image/C4D22AQHaqH9Otk6aQQ/feedshare-shrink_1280/0/1639012192077?e=1659571200&v=beta&t=jAOZ5H211UY_2yfPwg8ba3uh8acGBr2aulsDIiVquPk)
+![Christmas Songs Challenge Image](https://media-exp1.licdn.com/dms/image/C4D22AQHaqH9Otk6aQQ/feedshare-shrink_800/0/1639012192077?e=1662595200&v=beta&t=ORs6wdKI8hYIe9h4bDTmGnPpqBNKebskvR8WZ2Rq8X0)
 
 
 
